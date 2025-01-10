@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f4f4f4;
+    background-image: linear-gradient(120deg, #686565 0%, #353434 50%, #171717 100%);
     font-family: "Muli", sans-serif;
     display: flex;
     flex-direction: column;
@@ -19,13 +19,15 @@ body {
 }
   
 .container {
-    background-color: #476ce4;
+    background-color: #3d3f44;
     position: relative;
     color: #fff;
     margin: 20px auto;
     padding: 50px 80px;
     max-width: 768px;
+    border: 2px solid #838080;
     border-radius: 15px;
+    box-shadow: 0 1px 5px #ffffff8d;
 }
 
 .fa-quote {
