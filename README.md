@@ -23,7 +23,7 @@ A sleek and responsive testimonial slider built with HTML, CSS, and JavaScript. 
 2. Open `index.html` in your browser to view the component.
 
 ## Live Demo
-Check out the live demo here: [Live Demo Link](https://chrisroland.github.io/Testimonial-Component/)
+Check out the [Live Demo here:](https://chrisroland.github.io/Testimonial-Component/)
 
 ## Future Enhancements
 - Add navigation buttons for manual control of testimonials.
