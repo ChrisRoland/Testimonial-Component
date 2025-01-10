@@ -35,4 +35,4 @@ Check out the live demo here: [Live Demo Link](https://chrisroland.github.io/Tes
 - **Pull requests** are welcome for adding new testimonials or enhancing the component.
 - This project is **open-sourced**, and I appreciate **constructive feedback** and **collaborations**!
 
-Thank you for exploring this project! ❤️ 
+Thank you for exploring this project! ❤️
